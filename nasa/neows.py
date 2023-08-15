@@ -20,7 +20,7 @@ def main():
     nasacreds = returncreds()
 
     ## update the date below, if you like
-    startdate = "start_date=2019-11-11"
+    startdate = "start_date=2023-08-15"
 
     ## the value below is not being used in this
     ## version of the script
